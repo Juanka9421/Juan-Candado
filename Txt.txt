@@ -1,0 +1,14 @@
+
+
+
+Buenas noches
+
+Mi trabajo es una pagina con todas las temporadas de Dr. House, una de mis series favoritas.
+Cuenta con unas reseñas, de cada temporada, una tabla con el elenco principal, algunas imagenes caracteristicas de la serie.
+Los elementos que use fueron basicos para dividir acad temporada. divs, sections, footer, header, anclas(hrefs) para ir al contenido de cada temporada.
+Agregue un itframe con un video para ver un pequeño resumen, un ancla de mail, un formulario de comentarios.
+Puede, que codigo no este muy limpio y ordenado, me falata mejorar bastante en cuanto a los padding, margins, las cajitas.etc
+Lo que mas me costo fue el responsive ya que em adaptaba al tamaño de tablets pero no se me adaptaba al tamaño de los celulares.
+Espero mejorar para la proxima entrega.
+
+Saludos !, juan

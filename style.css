@@ -1,0 +1,118 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(images/TbKLRBaqi.jpg);
+   
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:20px;
+    border-style: none;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;  
+    }
+header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(185, 12, 38, 0.634) ;
+    text-align: justify;
+    font-size:  1rem;
+    padding: 25px;
+    color: #fff;
+    text-decoration: none;  
+}
+header a {
+    color:  rgb(127, 95, 214);
+}
+header a:hover {
+    
+    color:crimson
+}
+header h2 {
+    font-size:2.5rem;
+}
+#titulo{
+    text-align: center;
+    font-size: 3rem;
+    color: #fff;
+     }
+
+
+.in-flex{
+    flex: 1;
+    min-width: 250px;
+    
+} 
+  .in-flex:first-child{
+    background-color:  rgb(185, 12, 38, 0.634) ;
+    flex: 2;
+    margin: 20px;
+    margin-bottom: 0px;
+    min-width: 250px; 
+}
+  in-flex div{
+    background-color:  rgb(185, 12, 38, 0.634);
+    flex: 2;
+    margin: 20px;
+    
+  
+}
+ section {
+    color: #fff;
+    background-color:  rgb(185, 12, 38, 0.634);
+    padding: 25px;   
+}
+nav {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:aquamarine;
+    padding: 25px 15px;
+    font-size:20px;
+    text-align: Left;
+    margin: right 10px;
+}
+nav a:hover {
+    color: crimson;
+}
+img {
+    height:400px;
+    width: 700px;
+    border: 10px solid rgb(104, 223, 236);
+}
+a {
+    text-decoration: none;
+  }
+
+table{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: aquamarine;
+color: rgb(26, 51, 97);
+position: relative;
+}
+table a:hover{
+    color:crimson;
+}
+
+footer{
+
+background-color:rgb(42, 156, 232) ;
+font-size: 18px;
+text-align: left;
+bottom: 0px;
+width: 100%; 
+padding:5px 25px;
+}
+
+footer a {
+    
+    transition: color 0.3s ease;
+    color: white;
+    text-align: left;
+}
+footer a:hover {
+    color:crimson;
+}
+
